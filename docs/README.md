@@ -46,4 +46,11 @@ _the function takes values of all three sides of the triangle and returns the pe
 **Example:** perimeter(3, 4, 5) = 12
 
 # Project modification history
-## 
+- circle.py and square.py added (Commit hash: **8ba9aeb**)
+- Docs added (Commit hash: **d078c8d**)
+- Added rectangle.py file (Commit hash: **ba58dba**)
+- Added triangle.py file (Commit hash: **610eac8**)
+- Added new comments to rectangle.py (Commit hash: **b51b0c2**)
+- Added new comments to triangle.py (Commit hash: **229a1f6**)
+- Added new comments to circle.py (Commit hash: **c39ef77**)
+- Added new comments to square.py (Commit hash: **89a10ef**)
